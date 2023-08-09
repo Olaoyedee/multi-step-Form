@@ -32,7 +32,7 @@ body{
    width: 25%;
    height: 95%;
    border: 1px solid green;
-   background-image: url("./multi-step-form-main/assets/images/bg-sidebar-desktop.svg");
+   background-image: url("./images/bg-sidebar-desktop.svg");
    background-size: cover;
    font-family: 'Ubuntu', sans-serif;
 }
@@ -333,16 +333,16 @@ input{
     display: none;
 }
 #logo1{
-    background-image: url("./multi-step-form-main/assets/images/icon-arcade.svg");
+    background-image: url("./images/icon-arcade.svg");
     background-size: cover;
 }
 #logo2{
      background-size: cover;
-     background-image: url("./multi-step-form-main/assets/images/icon-advanced.svg");
+     background-image: url("./images/icon-advanced.svg");
 }
 #logo3{
      background-size: cover;
-     background-image: url("./multi-step-form-main/assets/images/icon-pro.svg");
+     background-image: url("./images/icon-pro.svg");
 }
 .annual{
     font-family: 'Ubuntu', sans-serif;
