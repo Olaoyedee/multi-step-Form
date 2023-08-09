@@ -32,7 +32,7 @@ body{
    width: 25%;
    height: 95%;
    border: 1px solid green;
-   background-image: url("./assets/images/bg-sidebar-desktop.svg");
+   background-image: url("./multi-step-form-main/assets/images/bg-sidebar-desktop.svg");
    background-size: cover;
    font-family: 'Ubuntu', sans-serif;
 }
@@ -333,16 +333,16 @@ input{
     display: none;
 }
 #logo1{
-    background-image: url("./assets/images/icon-arcade.svg");
+    background-image: url("./multi-step-form-main/assets/images/icon-arcade.svg");
     background-size: cover;
 }
 #logo2{
      background-size: cover;
-     background-image: url("./assets/images/icon-advanced.svg");
+     background-image: url("./multi-step-form-main/assets/images/icon-advanced.svg");
 }
 #logo3{
      background-size: cover;
-     background-image: url("./assets/images/icon-pro.svg");
+     background-image: url("./multi-step-form-main/assets/images/icon-pro.svg");
 }
 .annual{
     font-family: 'Ubuntu', sans-serif;
@@ -487,7 +487,13 @@ input{
 .appreciation{
     text-align: center;
 }
-
+.gotoPage5{
+      width: 30%;
+        height: 5vh;
+        border-radius: 10px;
+        background-color: hsl(213, 96%, 18%);
+        color: #fff;
+}
 
 
 
@@ -630,7 +636,7 @@ input{
        width: 100%;
        height: 30%;
        border: 1px solid green;
-       background-image: url("./assets/images/bg-sidebar-mobile.svg");
+       background-image: url("./multi-step-form-main/assets/images/bg-sidebar-mobile.svg");
        background-size: cover;
        font-family: 'Ubuntu', sans-serif;
        display: flex;
